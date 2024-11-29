@@ -72,7 +72,7 @@ For a complete list of supported languages and trained data, visit the [Tesserac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IBANalyze.git
+   git clone https://github.com/sametkayikci/IBANalyze.git
    cd IBANalyze
    ```
 
@@ -166,7 +166,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 IBANalyze was created to address a common pain point in financial workflows: extracting and validating IBANs from imperfect image data. By automating this process, IBANalyze saves time, reduces errors, and streamlines financial data processing.
 
-For more information, visit the [GitHub repository](https://github.com/yourusername/IBANalyze).
+For more information, visit the [GitHub repository](https://github.com/sametkayikci/IBANalyze).
 
 ---
 
